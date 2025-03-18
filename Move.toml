@@ -1,0 +1,10 @@
+[package]
+name = "RealTimeNewsReporting"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0xe8e98066b8dd81c826faa7c90b348cc9a69278f326b9a2c37c5d2fdad53a8702"
+
+[dependencies]
+AptosFramework = { local = "../aptos-core/aptos-move/framework/aptos-framework" }
